@@ -1,2 +1,5 @@
 Git practice
 Learn basic workflow.
+
+git add
+git commit
